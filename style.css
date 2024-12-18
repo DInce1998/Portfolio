@@ -1,0 +1,121 @@
+h1 {
+    font-size: 35px;
+    font-family: Arial;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+h2{
+    font-size: 26px;
+    font-family: Arial;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;  
+}
+.navitem {
+    font-size: 22px;
+    font-family: 'Arial';
+    text-decoration: none;
+    background-color:skyblue;
+    color:navy ;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-decoration: underline;
+}
+.navitem:hover {
+    color:skyblue;
+    background-color:navy;
+}
+body {
+    background-color: silver;
+    font-size: 22px;
+    font-family: Arial
+}
+.image_row {
+    display:flex;
+    flex-direction: row;
+    
+}
+.image_item{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.image_item2{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    padding-bottom: 42px;
+}
+
+.computer_skills{
+    font-family: Arial;
+    font-size: 23px;
+    color: black;
+    text-align: left;  
+}
+.problem_solving{
+    font-family: Arial;
+    font-size: 23px;
+    color: black;
+    text-align: center; 
+}
+h3 {
+    font-size: 26px;
+    font-family: Arial;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.University{
+    font-family: Arial;
+    font-size: 23px;
+    color: black;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.A_level{
+    font-family: Arial;
+    font-size: 23px;
+    color: black;
+    text-align: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+.image_item3{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.image_item4 {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+.Education_title{
+    font-family: Arial;
+    font-size: 25px;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2{
+    font-size: 24px;
+    font-family: Arial;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
